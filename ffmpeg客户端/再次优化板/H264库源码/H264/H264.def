@@ -1,0 +1,5 @@
+LIBRARY H264
+EXPORTS
+	H264_Play
+	H264_Destroy
+	H264_Control

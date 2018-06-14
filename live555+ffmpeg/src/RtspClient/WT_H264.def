@@ -1,0 +1,10 @@
+LIBRARY	"WT_H264"
+EXPORTS
+    ; 此处可以是显式导出
+WT_H264Init
+WT_H264Start
+WT_H264End
+WT_H264Destory
+WT_ChangeH264ShowWindows
+WT_RegH264DecodeEvent
+WT_RegH264DecodeEvent_EX
